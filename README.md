@@ -8,7 +8,7 @@ A repo of problem sheets for 'Intro to Machine Learning for Linguists' Reading G
 - Open the command prompt (cmd)
 - Type `python -V` to check that Python is installed and you are running on v3.8+
 - Type `conda list` to view a list of the installed libraries you get with conda
-- Clone/download this repository - NOTE: if you are going to clone the repo, make sure to open a new branch under your name!
+- Clone/download this repository. To download directly, click on the 'code' button and then 'download zip'. NOTE: if you are going to clone the repo, make sure to open a new branch under your name!
 - In the command prompt, change your directory to wherever you have stored this repo on your device. Use `cd` followed by the path to change directory
 - Then run `conda env create -f ./Environment.yaml`. This will create a virtual environment called ML4Linguists and install all the relevant packages for our tutorials (this may take a while). If you want to name the environment something else, append the previous command with `-n new-env-name`
 - Then run `conda activate ML4Linguists`
