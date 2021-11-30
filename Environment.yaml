@@ -1,0 +1,16 @@
+name: ML4Linguists
+channels:
+  - conda-forge
+  - defaults
+  - mro
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - pandas
+  - python
+  - scikit-learn
+  - python
+  - scikit-learn
+  - scipy
+  - pip
+  - sklearn
