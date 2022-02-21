@@ -5,7 +5,7 @@ A repo of problem sheets for 'Intro to Machine Learning for Linguists' Reading G
 
 **PLEASE NOTE**, the environment has been updated. Please follow the instructions in Section *Updating the environment with updates in future classes* to update libraries in your environment.
 
-## QUICK START
+## Quick Start with [Google Colab](https://colab.research.google.com/)
 
 If you do not want to use Anaconda to access the notebooks, please use Google Colaboratory. You may need to make the following changes:
 - Wherever libraries are imported, an error may be thrown where some libraries aren't getting imported because they are not installed. Simply install them by writing `!pip install lib_name` above the `import` call.
