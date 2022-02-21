@@ -1,7 +1,18 @@
 # ML4Linguists
 A repo of problem sheets for 'Intro to Machine Learning for Linguists' Reading Group @ University of Cambridge
 
-## Set-up Instructions (first time)
+## UPDATE 21/02/2022
+
+**PLEASE NOTE**, the environment has been updated. Please follow the instructions in Section (*Updating the environment with updates in future classes*) to update libraries in your environment.
+
+## QUICK START
+
+If you do not want to use Anaconda to access the notebooks, please use Google Colaboratory. You may need to make the following changes:
+- Wherever libraries are imported, an error may be thrown where some libraries aren't getting imported because they are not installed. Simply install them by writing `!pip install lib_name` above the `import` call.
+- You may have trouble reading in csv files like `iris_csv.csv`. Follow instructions [here](https://sigmundojr.medium.com/how-do-i-read-a-csv-file-from-google-drive-using-python-colab-966091922852#:~:text=How%20do%20I%20read%20a%20CSV%20file%20from,Load%20the%20CSV.%20...%207%20Showing%20the%20Results) to get around this.
+- You may need to enable widgets to view some interactive plots. Google Colab will advise you when to do that.
+
+## Set-up Instructions (first time: ANACONDA)
 
 - NOTE: This was developed using a Windows 10 OS. If there are any issues with other OSs, please open a pull request here to fix them!
 - Install [Anaconda](https://www.anaconda.com/products/individual) for your operating system. This might take a while, but it is an excellent resource for all your datascience needs
