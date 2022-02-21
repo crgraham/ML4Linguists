@@ -3,7 +3,7 @@ A repo of problem sheets for 'Intro to Machine Learning for Linguists' Reading G
 
 ## UPDATE 21/02/2022
 
-**PLEASE NOTE**, the environment has been updated. Please follow the instructions in Section (*Updating the environment with updates in future classes*) to update libraries in your environment.
+**PLEASE NOTE**, the environment has been updated. Please follow the instructions in Section *Updating the environment with updates in future classes* to update libraries in your environment.
 
 ## QUICK START
 
@@ -38,7 +38,7 @@ If you do not want to use Anaconda to access the notebooks, please use Google Co
 
 - Run the command `jupyter notebook` from the command-line
 - This will open a jupyter notebook in your browser at the file location associated with this repository on your local device (provided you have used `cd` correctly earlier
-- Click on the notebook `LinearRegression_TutorialProblemSet.ipynb`, which will open in a new tab, and begin the tutorial
+- Click on the notebook you would like to do and it will open a new tab for you.
 
 ## Closing the notebook
 
